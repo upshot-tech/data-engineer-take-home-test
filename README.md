@@ -28,7 +28,7 @@ If you pass the test, we'll then get on a video call where you'll present your s
 * Please time-box the exercise to a few hours. You have one week from the day we sent you the exercise to send us your submission.
 * If you need any help or clarification, email us.
 * As you proceed, use a Git repository to host all your files.
-* Submit your results as a [Git Bundle](https://utappia.org/2015/04/27/git-bundle-backup/) that you submit via the link your recruiter sent at the bottom of the email where we shared the assignment. Do _not_ post your git repo publicly anywhere on the internet.
+* Submit your results as a [Git Bundle](https://utappia.org/2015/04/27/git-bundle-backup/) to the recruiter as an attachment on your email. Do _not_ post your git repo publicly anywhere on the internet.
 * Do not include the source data in your Git repository or resultant archive.
 * We expect your solution to contain all the instructions to reproduce the environment you used to run this test
 
